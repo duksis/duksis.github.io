@@ -1,0 +1,78 @@
+
+==================================================================
+https://keybase.io/duksis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of http://duksis.lv
+* I am duksis (https://keybase.io/duksis) on keybase.
+* I have a public key with fingerprint 8013 D9C8 8BBF 0346 D8FA  8073 58C1 86B9 7847 F196
+
+To claim this, I am signing this object:
+
+{
+  "body": {
+    "client": {
+      "name": "keybase.io node.js client",
+      "version": "0.7.3"
+    },
+    "key": {
+      "fingerprint": "8013d9c88bbf0346d8fa807358c186b97847f196",
+      "host": "keybase.io",
+      "key_id": "58C186B97847F196",
+      "uid": "b78bce4db1ff1bc939fef60f73aeaa00",
+      "username": "duksis"
+    },
+    "merkle_root": {
+      "ctime": 1420833461,
+      "hash": "48150678073c66c594bcd35b7338a3439a36520e1f2d1050a5340fa7ecdf70f74b24024e2c9cea2b0484459f8951d683e5ff2542d0ed71bee8d028301b739030",
+      "seqno": 126335
+    },
+    "service": {
+      "hostname": "duksis.lv",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1420834007,
+  "expire_in": 157680000,
+  "prev": "c9eae780bffbbecdd4172622bd100a8823fee2a82f5b2e0df804bb8edeab5c90",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkm2IFVUYx+/d3NDFUvsiRdk6UIu0XM7rzJktEjeRbWExxE2L6nLOnOfsHfc6
+c3fm7tWbXGpNsu3VisgokcVoW7Q0iSwJe9EPgRVbbiQFrdh+MFAS2oiils7cDNzz
+ac6Z3/N//v/nnD3XXZNryV+ia+tzH82ty5/+ReU2HmHf73BUrOtO1w4nKIcQVbOv
+SG4Fp8sZhLqSKRTCuD2KNRS2pO1XmE6nBkkaxpGlUMErUKfRmeFZsQmjAUgqSZhp
+OQJhqv1ACKUMoszVwkiBPMpFgIWrfE8wz2DftZKlOK3O6+o0NYuhtqdc3GP57ia/
+7j9+uPlDeUIFwLTCxmAV+NQ3YFxkPCpBSoQyMIXkSiQ9PJiGaeZ2KySDZSgmcdyM
+HFTDDMCMIEGtT2z9yLRkS5jAHLleZjpw3YD7TAWacuVRKiRl1JfU5QQBNkRjxJHk
+lCEjPQi08awPpghDhAEJ/AAkUYgJxrhvhM+xdgUFbgzhjGgE2sMKQGhEBEXYdvAR
+zQKkMBTF1hxxKeWNbJ/UwgAy39nQ5mUrlGu2opLE1TiIy/a4VK1WurLE1Xolw7aB
+KjYFJgIoqjDS9r6uvlBs0XnTYAh5nQ5sr4QJFMOM4J4rkF1ZH6hZzcAHCXZEyhil
+bHDNsEdcQpSdCJJCEGoAiBTEcEUAaSMQU0qABql44F+d0Q6+KgesZhoORLI6nIDT
+GM3fvCCXb8ld29qSPdlc26Kl/7/jyZULc1MnD7x4hB94Zv1di8+uRmzx+Gz3x8v3
+/fls362Xdj18cWZqJF/gQ4da+aqp6V9nXrp38u3NyaftW8yuyzt3F3Yj0Vc6+8Kx
+frqP9JVPHQWx4czlbx/pv/DPHX9sW7OxMTrW8/Vz4++lm1bMPDrd9gVe3rv6prWl
+d3qOmlPnJ16rffLD/R1vvblk+wOv33731M+HnnplU2NvT3hy/4n1X+75nZ7ujcaS
+rx46eOePXfnn9/490XH9DSvTWZk70/rbX3336Y4PXj73+fHPnnhs9Bsxt/n402uO
+LT38YffIG9MbBhZN9Cj83ZMXdi45vGpB28WhWx6sq+GF4zm87NyYPjF54+PvR+/e
+9uqK872zI/0//Qs=
+=X6g4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/duksis
+
+==================================================================
+
